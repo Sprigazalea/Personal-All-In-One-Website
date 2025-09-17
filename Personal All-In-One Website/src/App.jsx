@@ -8,7 +8,8 @@ function App() {
     <>
       <div id='main'>
         <div id='block'>
-          <h1 id='text'>lalala</h1>
+          <h1 id='text'>&#127800; lalala &#127800;</h1>
+          <text id='text'>there is information here</text>
         </div>
       </div>
     </>
