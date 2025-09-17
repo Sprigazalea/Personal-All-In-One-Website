@@ -7,16 +7,19 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  min-width: 100vh;
   color: black;
+}
+
+#block {
+  align-content: center;
+  background-color: white;
+  max-height: 80vh;
+  height: 80vh;
+  width: 70vh;
+  border-radius: 30px;
 }
 
 #text {
   text-align: center;
-}
-
-#block {
-  background-color: white;
-  height: 100px;
-  width: 100px;
-  border-radius: 30px;
 }
