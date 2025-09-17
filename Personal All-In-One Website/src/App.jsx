@@ -8,7 +8,7 @@ function App() {
     <>
       <div id='main'>
         <div id='block'>
-          <div id='text'>test</div>
+          <h1 id='text'>lalala</h1>
         </div>
       </div>
     </>
