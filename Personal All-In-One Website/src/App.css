@@ -1,6 +1,4 @@
-#root {
-  
-}
+@import "tailwindcss";
 
 #main {
   display: flex;
