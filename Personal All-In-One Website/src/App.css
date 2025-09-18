@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
-#main {
+/*#main {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   min-width: 100vh;
   color: black;
-}
+}*/
 
 #block {
   display: flex;
