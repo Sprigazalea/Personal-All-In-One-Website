@@ -3,13 +3,11 @@ import './App.css'
 function App() {
   return (
     <div>
-      <div id='main' className='flex justify-normal content-normal min-h-screen min-w-screen text-black'>
-        <div id='block' className=''>
-          <h1 id='text' className='text-4xl'>&#127800; Sprigazalea &#127800;</h1>
-          <text id='text' className='text-3xl'>there is information here</text>
+      <div id='main' className='flex justify-center items-center min-h-screen min-w-screen text-black'>
+        <div id='block' className='flex flex-col bg-white max-h-80vh h-[80vh] w-[70vh] rounded-[30px]'>
+          <h1 id='text' className='text-4xl text-center'>&#127800; Sprigazalea &#127800;</h1>
+          <text id='text' className='text-3xl text-center'>there is information here</text>
         </div>
-        <text className='text-red-900'>test</text>
-        <div className='text-green-900'>test2</div>
       </div>
     </div>
   )
